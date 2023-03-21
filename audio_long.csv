@@ -1,166 +1,166 @@
-artists,name,variable,value
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,danceability,0.0
-['Toser One'],Rap Real,danceability,0.7578288100208769
-"['Toser One', 'Ele A El Dominio']",Sin Drama,danceability,0.8225469728601252
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,danceability,0.4175365344467642
-['Josephlee'],AIRBN,danceability,0.8121085594989562
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,danceability,0.9999999999999999
-['Ralphy'],Cabrrr,danceability,0.511482254697286
-['JC Calva'],No Necesito tu Amor,danceability,0.7014613778705637
-['JC Calva'],No Necesito tu Amor,danceability,0.7014613778705637
-['Lémat'],Si Estuvieras,danceability,0.3173277661795407
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,danceability,0.2609603340292276
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,danceability,0.32150313152400833
-['Cali Cael'],Un Pacto,danceability,0.6137787056367433
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,danceability,0.791231732776618
-['Kike Paz'],Tan En La Tuya,danceability,0.582463465553236
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,energy,1.0
-['Toser One'],Rap Real,energy,0.40256959314775165
-"['Toser One', 'Ele A El Dominio']",Sin Drama,energy,0.41113490364025707
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,energy,0.6231263383297646
-['Josephlee'],AIRBN,energy,0.0
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,energy,0.9957173447537474
-['Ralphy'],Cabrrr,energy,0.24839400428265523
-['JC Calva'],No Necesito tu Amor,energy,0.4967880085653106
-['JC Calva'],No Necesito tu Amor,energy,0.4967880085653106
-['Lémat'],Si Estuvieras,energy,0.5610278372591008
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,energy,0.3554603854389723
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,energy,0.2505353319057816
-['Cali Cael'],Un Pacto,energy,0.04925053533190582
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,energy,0.4646680942184155
-['Kike Paz'],Tan En La Tuya,energy,0.4732334047109207
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,key,0.4545454545454546
-['Toser One'],Rap Real,key,1.0
-"['Toser One', 'Ele A El Dominio']",Sin Drama,key,0.09090909090909091
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,key,1.0
-['Josephlee'],AIRBN,key,0.6363636363636364
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,key,0.0
-['Ralphy'],Cabrrr,key,0.8181818181818182
-['JC Calva'],No Necesito tu Amor,key,1.0
-['JC Calva'],No Necesito tu Amor,key,1.0
-['Lémat'],Si Estuvieras,key,0.0
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,key,0.9090909090909092
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,key,0.0
-['Cali Cael'],Un Pacto,key,0.5454545454545454
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,key,0.9090909090909092
-['Kike Paz'],Tan En La Tuya,key,0.0
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,loudness,1.0
-['Toser One'],Rap Real,loudness,0.7293150012275964
-"['Toser One', 'Ele A El Dominio']",Sin Drama,loudness,0.9423029707832066
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,loudness,0.814141910139946
-['Josephlee'],AIRBN,loudness,0.0
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,loudness,0.9237662656518537
-['Ralphy'],Cabrrr,loudness,0.1708814141910142
-['JC Calva'],No Necesito tu Amor,loudness,0.7279646452246502
-['JC Calva'],No Necesito tu Amor,loudness,0.7279646452246502
-['Lémat'],Si Estuvieras,loudness,0.6538178246992389
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,loudness,0.20942794009329746
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,loudness,0.46931009084213127
-['Cali Cael'],Un Pacto,loudness,0.4704149275718146
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,loudness,0.24097716670758662
-['Kike Paz'],Tan En La Tuya,loudness,0.48305917014485633
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,mode,0.0
-['Toser One'],Rap Real,mode,1.0
-"['Toser One', 'Ele A El Dominio']",Sin Drama,mode,1.0
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,mode,0.0
-['Josephlee'],AIRBN,mode,0.0
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,mode,1.0
-['Ralphy'],Cabrrr,mode,1.0
-['JC Calva'],No Necesito tu Amor,mode,0.0
-['JC Calva'],No Necesito tu Amor,mode,0.0
-['Lémat'],Si Estuvieras,mode,1.0
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,mode,0.0
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,mode,0.0
-['Cali Cael'],Un Pacto,mode,0.0
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,mode,0.0
-['Kike Paz'],Tan En La Tuya,mode,1.0
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,speechiness,0.0
-['Toser One'],Rap Real,speechiness,0.8206141684402554
-"['Toser One', 'Ele A El Dominio']",Sin Drama,speechiness,0.055031924597141985
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,speechiness,0.17604134995439344
-['Josephlee'],AIRBN,speechiness,0.4618425053207662
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,speechiness,1.0
-['Ralphy'],Cabrrr,speechiness,0.47704469443599873
-['JC Calva'],No Necesito tu Amor,speechiness,0.19732441471571907
-['JC Calva'],No Necesito tu Amor,speechiness,0.19732441471571907
-['Lémat'],Si Estuvieras,speechiness,0.050775311644876864
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,speechiness,0.1526299787169352
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,speechiness,0.0903010033444816
-['Cali Cael'],Un Pacto,speechiness,0.9179081787777439
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,speechiness,0.17908178777743997
-['Kike Paz'],Tan En La Tuya,speechiness,0.8692611736089997
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,acousticness,0.10407725321888411
-['Toser One'],Rap Real,acousticness,0.0
-"['Toser One', 'Ele A El Dominio']",Sin Drama,acousticness,0.5311625303228215
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,acousticness,0.3725508490389999
-['Josephlee'],AIRBN,acousticness,1.0
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,acousticness,0.7737451016980781
-['Ralphy'],Cabrrr,acousticness,0.11690613920507559
-['JC Calva'],No Necesito tu Amor,acousticness,0.24892703862660945
-['JC Calva'],No Necesito tu Amor,acousticness,0.24892703862660945
-['Lémat'],Si Estuvieras,acousticness,0.046463892517260685
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,acousticness,0.8437208434409404
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,acousticness,0.717764508303788
-['Cali Cael'],Un Pacto,acousticness,0.9346893077066618
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,acousticness,0.3538906512409032
-['Kike Paz'],Tan En La Tuya,acousticness,0.0917148721776451
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,instrumentalness,0.0
-['Toser One'],Rap Real,instrumentalness,0.0431297709923664
-"['Toser One', 'Ele A El Dominio']",Sin Drama,instrumentalness,0.0
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,instrumentalness,0.0
-['Josephlee'],AIRBN,instrumentalness,0.0
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,instrumentalness,0.0004427480916030534
-['Ralphy'],Cabrrr,instrumentalness,0.0
-['JC Calva'],No Necesito tu Amor,instrumentalness,0.0
-['JC Calva'],No Necesito tu Amor,instrumentalness,0.0
-['Lémat'],Si Estuvieras,instrumentalness,0.9999999999999999
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,instrumentalness,0.0
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,instrumentalness,0.006526717557251908
-['Cali Cael'],Un Pacto,instrumentalness,0.09923664122137403
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,instrumentalness,0.05534351145038167
-['Kike Paz'],Tan En La Tuya,instrumentalness,0.32519083969465645
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,liveness,0.2872295290623674
-['Toser One'],Rap Real,liveness,0.08145948239287229
-"['Toser One', 'Ele A El Dominio']",Sin Drama,liveness,0.0
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,liveness,0.1726771319473907
-['Josephlee'],AIRBN,liveness,0.03818413237165891
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,liveness,1.0
-['Ralphy'],Cabrrr,liveness,0.4039032668646584
-['JC Calva'],No Necesito tu Amor,liveness,0.03669919389053883
-['JC Calva'],No Necesito tu Amor,liveness,0.03669919389053883
-['Lémat'],Si Estuvieras,liveness,0.20449724225710642
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,liveness,0.4760288502333474
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,liveness,0.35511243105642765
-['Cali Cael'],Un Pacto,liveness,0.0941875265167586
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,liveness,0.44845142129826043
-['Kike Paz'],Tan En La Tuya,liveness,0.06448875689435724
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,valence,0.3333333333333335
-['Toser One'],Rap Real,valence,0.10534591194968557
-"['Toser One', 'Ele A El Dominio']",Sin Drama,valence,0.6352201257861636
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,valence,0.06603773584905659
-['Josephlee'],AIRBN,valence,0.11477987421383651
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,valence,0.5141509433962266
-['Ralphy'],Cabrrr,valence,0.19025157232704404
-['JC Calva'],No Necesito tu Amor,valence,0.0
-['JC Calva'],No Necesito tu Amor,valence,0.0
-['Lémat'],Si Estuvieras,valence,0.35062893081761015
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,valence,0.5801886792452831
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,valence,0.2751572327044026
-['Cali Cael'],Un Pacto,valence,0.14937106918238996
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,valence,1.0000000000000002
-['Kike Paz'],Tan En La Tuya,valence,0.6116352201257862
-"['Tokischa', 'Natanael Cano']",Kilos de Amor,tempo,0.11241267377037611
-['Toser One'],Rap Real,tempo,0.8578081998447533
-"['Toser One', 'Ele A El Dominio']",Sin Drama,tempo,0.589219768070943
-"['Midnvght', 'Ele A El Dominio', 'Almighty']",Traficando - Remix,tempo,0.624397243196199
-['Josephlee'],AIRBN,tempo,0.22463716980688275
-"['13am', 'Brray', 'lil joujou', 'Marconi Impara', 'Jovaan']",Flip Flop (feat. Marconi Impara & Jovaan) - Remix,tempo,0.376261378872345
-['Ralphy'],Cabrrr,tempo,0.7055018464940137
-['JC Calva'],No Necesito tu Amor,tempo,0.9768306165173006
-['JC Calva'],No Necesito tu Amor,tempo,0.9768306165173006
-['Lémat'],Si Estuvieras,tempo,0.882635899607179
-"['Zito Music', 'Niño Len']",Ella me encanta - Remix,tempo,0.9279632112530283
-"['Archy', 'Arnaldo Omar', 'Chase the Musical Sequence']",Color Fresa,tempo,0.9537200385764353
-['Cali Cael'],Un Pacto,tempo,0.9534024886505306
-['Jorge Amaro'],#Mistanuevacriatura Saulo De Tarzo,tempo,0.0
-['Kike Paz'],Tan En La Tuya,tempo,0.9999999999999998
+axis,value
+danceability,0.4072580645161292
+danceability,0.7278225806451613
+danceability,1.0
+danceability,0.47580645161290325
+danceability,0.8165322580645163
+danceability,0.8407258064516131
+danceability,0.5241935483870968
+danceability,0.3185483870967742
+danceability,0.6592741935483872
+danceability,0.2096774193548388
+danceability,0.8286290322580648
+danceability,0.0
+danceability,0.6129032258064517
+danceability,0.2399193548387098
+danceability,0.5786290322580647
+energy,0.5176470588235296
+energy,0.9071895424836602
+energy,0.7882352941176471
+energy,0.6967320261437909
+energy,0.9411764705882353
+energy,0.5555555555555556
+energy,0.5908496732026144
+energy,0.3777777777777779
+energy,0.40261437908496744
+energy,0.16078431372549026
+energy,0.0
+energy,0.13071895424836602
+energy,0.673202614379085
+energy,1.0
+energy,0.48888888888888893
+key,1.0
+key,0.30000000000000004
+key,0.1
+key,0.7000000000000001
+key,0.1
+key,0.5
+key,0.6000000000000001
+key,0.9
+key,0.0
+key,0.4
+key,0.7000000000000001
+key,0.5
+key,0.8
+key,0.4
+key,0.9
+loudness,0.7655599324704558
+loudness,1.0
+loudness,0.9303320202588633
+loudness,0.7227912211592572
+loudness,0.801800787844682
+loudness,0.5330332020258863
+loudness,0.5413618458075408
+loudness,0.6171074845244794
+loudness,0.26978052898142946
+loudness,0.14597636465953867
+loudness,0.0
+loudness,0.19324704558244243
+loudness,0.41947101857062474
+loudness,0.846933033202026
+loudness,0.17197523916713564
+mode,1.0
+mode,1.0
+mode,1.0
+mode,0.0
+mode,1.0
+mode,1.0
+mode,1.0
+mode,0.0
+mode,1.0
+mode,1.0
+mode,0.0
+mode,1.0
+mode,1.0
+mode,1.0
+mode,1.0
+speechiness,0.12041884816753923
+speechiness,0.8534031413612566
+speechiness,0.1553228621291448
+speechiness,0.038394415357766165
+speechiness,0.8603839441535777
+speechiness,0.1902268760907504
+speechiness,0.04712041884816753
+speechiness,0.08202443280977312
+speechiness,0.0
+speechiness,1.0
+speechiness,0.16928446771378713
+speechiness,0.3158813263525305
+speechiness,0.010471204188481686
+speechiness,0.18150087260034897
+speechiness,0.5130890052356022
+acousticness,0.2640074623045553
+acousticness,0.29472121580962024
+acousticness,0.052310072404830016
+acousticness,0.013633493916970487
+acousticness,0.28675839082682564
+acousticness,0.1275018911709334
+acousticness,0.06050040667284734
+acousticness,0.33453534072359326
+acousticness,0.8259553968046321
+acousticness,0.9783866179038432
+acousticness,0.9613234215121405
+acousticness,1.0
+acousticness,0.23670634807783092
+acousticness,0.0
+acousticness,0.7941040968734536
+instrumentalness,0.0
+instrumentalness,0.0
+instrumentalness,0.0
+instrumentalness,2.329787234042554e-05
+instrumentalness,0.05436170212765959
+instrumentalness,0.012553191489361706
+instrumentalness,1.8829787234042557e-05
+instrumentalness,0.4351063829787235
+instrumentalness,1.0
+instrumentalness,5.138297872340427e-05
+instrumentalness,0.9659574468085109
+instrumentalness,0.058510638297872355
+instrumentalness,0.0022127659574468087
+instrumentalness,0.0002531914893617022
+instrumentalness,0.0014255319148936173
+liveness,0.0484786557674841
+liveness,0.0557447774750227
+liveness,0.0
+liveness,1.0
+liveness,0.03939600363306085
+liveness,0.16666666666666666
+liveness,0.5731153496821071
+liveness,0.04098546775658492
+liveness,0.15758401453224338
+liveness,0.35740236148955484
+liveness,0.08946412352406902
+liveness,0.046662125340599436
+liveness,0.08832879200726612
+liveness,0.2484105358764759
+liveness,0.0667574931880109
+valence,0.7098800685322674
+valence,0.8937749857224445
+valence,1.0
+valence,0.8275271273557968
+valence,0.9634494574528844
+valence,0.537407195888064
+valence,0.5910908052541406
+valence,0.727013135351228
+valence,0.10908052541404914
+valence,0.2084523129640206
+valence,0.09080525414049115
+valence,0.0
+valence,0.9942889777270133
+valence,0.7235865219874359
+valence,0.6836093660765278
+tempo,0.11876165503247332
+tempo,0.6221447403205178
+tempo,0.44297339973278266
+tempo,0.2001843370653253
+tempo,0.2497481441258636
+tempo,0.4215602917955716
+tempo,0.28505798043740754
+tempo,0.7518951707975792
+tempo,0.17990725987953787
+tempo,1.0
+tempo,0.0
+tempo,0.8778874114932016
+tempo,0.2857153064067847
+tempo,0.4252899021870378
+tempo,0.3921163752759697
